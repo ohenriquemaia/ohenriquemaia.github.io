@@ -1,11 +1,12 @@
-#box {
+.box {
+    font-family: 'Press Start 2P', sans-serif;
     display: inline-block;
-    background-color: #fff;
+    background-color: #3A4042;
     box-shadow: 4px 4px 4px #000;
     text-align: center;
     padding: 42px 44px;
 }
 
-#box h1 {
+.box .title {
     margin-bottom: 29px;
 }
